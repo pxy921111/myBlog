@@ -1,0 +1,19 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "多人博客系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "git repository:()\u001b[Dhttps://github.com/pxy921111/myBlog.git)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxy921111/myBlog.git"
+  },
+  "author": "pxy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pxy921111/myBlog/issues"
+  },
+  "homepage": "https://github.com/pxy921111/myBlog#readme"
+}
